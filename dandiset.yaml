@@ -34,7 +34,8 @@ assetsSummary:
   - ProcessingModule
 citation: Feyerabend, Michael; Pommer, Stefan; Mestern, Samuel (2026) Intracellular
   Recordings for "Single neuron diversity supports area functional specialization
-  along the visual cortical pathways" (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001776/draft
+  along the visual cortical pathways" (Version 0.261007.1914) [Data set]. DANDI Archive.
+  https://doi.org/10.48324/dandi.001776/0.261007.1914
 contributor:
 - affiliation:
   - identifier: https://ror.org/02grkyz14
@@ -75,6 +76,7 @@ contributor:
   - dcite:DataManager
   schemaKey: Person
 dateCreated: '2026-04-02T17:33:08.732221+00:00'
+datePublished: '2026-10-07T19:14:34.099840+00:00'
 description: 'This dandiset includes intracellular patch-clamp electrophysiology recordings
   supporting the paper "Single neuron diversity supports area functional specialization
   along the visual cortical pathways". When utilizing the data please cite the primary
@@ -82,8 +84,9 @@ description: 'This dandiset includes intracellular patch-clamp electrophysiology
   the NHP cortex.Some files contain post-hoc reconstruction data under the heading
   "processing/morphology/SWC". Histological information (layer, etc.) is found under
   "processing/misc/histology"'
+doi: 10.48324/dandi.001776/0.261007.1914
 ethicsApproval: []
-id: DANDI:001776/draft
+id: DANDI:001776/0.261007.1914
 identifier: DANDI:001776
 keywords:
 - Non-human primate
@@ -94,9 +97,21 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001776/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001776/0.261007.1914/assets.yaml
 name: Intracellular Recordings for "Single neuron diversity supports area functional
   specialization along the visual cortical pathways"
+publishedBy:
+  endDate: '2026-10-07T19:14:34.099840+00:00'
+  id: urn:uuid:007cb8f6-6a93-41ea-83c6-4ad6e5f47a48
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-07T19:14:34.099840+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:485191dc-599d-4bda-b9f3-7336f6451e53
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource:
 - identifier: Intrinsic neuronal diversity as a substrate for cortical area specialization
     in primate vision
@@ -113,9 +128,10 @@ relatedResource:
   resourceType: dcite:InteractiveResource
   schemaKey: Resource
   url: https://primatedatabase.com/ephysCT
+releaseNotes: Minor Metadata updates. Files unchanged
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001776/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001776/0.261007.1914
+version: 0.261007.1914
 wasGeneratedBy: []
