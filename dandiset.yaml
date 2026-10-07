@@ -98,6 +98,14 @@ manifestLocation:
 name: Intracellular Recordings for "Single neuron diversity supports area functional
   specialization along the visual cortical pathways"
 relatedResource:
+- identifier: Intrinsic neuronal diversity as a substrate for cortical area specialization
+    in primate vision
+  name: Intrinsic neuronal diversity as a substrate for cortical area specialization
+    in primate vision
+  relation: dcite:IsPublishedIn
+  resourceType: dcite:JournalArticle
+  schemaKey: Resource
+  url: https://www.nature.com/articles/s41467-026-73734-5
 - identifier: PrimateDatabase
   name: PrimateDatabase
   relation: dcite:IsSupplementTo
